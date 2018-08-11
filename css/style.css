@@ -57,3 +57,10 @@ header .conteudo{
 .fonte{
   font-family:Arial, Helvetica, sans-serif;
 }
+
+.text-center{
+  text-align: center;
+}
+.img-carousel{
+  width: 100%;
+}
